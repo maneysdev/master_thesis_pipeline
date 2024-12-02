@@ -1,0 +1,16 @@
+requests
+beautifulsoup4
+pandas 
+requests[security]
+scikit-learn 
+numpy  
+matplotlib
+wordcloud
+nltk
+webdriver-manager
+pytesseract
+selenium
+rdflib
+termcolor
+gensim
+git+https://github.com/rdflib/rdflib@main
